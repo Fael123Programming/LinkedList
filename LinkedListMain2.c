@@ -1,4 +1,6 @@
-/*
+/*This code was not written by me. It was produced to be used in an academic context which studies how data structures can be used on C language.
+All code it was commented in Portuguese pointing how the routine works.
+Data Structures on C language.
 */
 #include <stdio.h>
 #include <stdlib.h>
